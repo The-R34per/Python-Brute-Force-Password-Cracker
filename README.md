@@ -6,8 +6,7 @@ Uses itertools.product to test all printable ASCII combinations while tracking
 precise timing and attempt counts. Demonstrates why strong passwords matter.
 
 # BADGES:
-[Python 3.6+](https://img.shields.io/badge/python-3.6+-blue.svg)
-[License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
+[![](https://img.shields.io/badge/Python-3.6-%238A16D7?labelColor=%23383838)] [![](https://img.shields.io/badge/License-MIT-%238A16D7?labelColor=%23383838)]
 
 # USAGE
 -----
